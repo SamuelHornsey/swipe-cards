@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 23">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #d8d8d8;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_4_1" data-name="Symbol 4 – 1" transform="translate(-176 -621)">
+    <g id="Rectangle_14" data-name="Rectangle 14" class="cls-1" transform="translate(176 623)">
+      <rect class="cls-2" width="10" height="10"/>
+      <rect class="cls-3" x="1.5" y="1.5" width="7" height="7"/>
+    </g>
+    <g id="Rectangle_15" data-name="Rectangle 15" class="cls-1" transform="translate(187 634)">
+      <rect class="cls-2" width="10" height="10"/>
+      <rect class="cls-3" x="1.5" y="1.5" width="7" height="7"/>
+    </g>
+    <g id="Rectangle_16" data-name="Rectangle 16" class="cls-1" transform="translate(176 634)">
+      <rect class="cls-2" width="10" height="10"/>
+      <rect class="cls-3" x="1.5" y="1.5" width="7" height="7"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" class="cls-1" transform="translate(189 621)">
+      <circle class="cls-2" cx="5" cy="5" r="5"/>
+      <circle class="cls-3" cx="5" cy="5" r="3.5"/>
+    </g>
+  </g>
+</svg>

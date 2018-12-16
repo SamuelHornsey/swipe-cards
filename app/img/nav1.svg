@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #d8d8d8;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_3_1" data-name="Symbol 3 – 1" transform="translate(-142 -620)">
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-1" transform="translate(149 620)">
+      <circle class="cls-2" cx="6" cy="6" r="6"/>
+      <circle class="cls-3" cx="6" cy="6" r="4.5"/>
+    </g>
+    <g id="Rectangle_12" data-name="Rectangle 12" class="cls-1" transform="translate(142 626)">
+      <rect class="cls-2" width="13" height="13"/>
+      <rect class="cls-3" x="1.5" y="1.5" width="10" height="10"/>
+    </g>
+  </g>
+</svg>

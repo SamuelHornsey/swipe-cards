@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.142 14.142">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #d8d8d8;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_7_1" data-name="Symbol 7 – 1" transform="translate(-330.929 -624.929)">
+    <g id="Rectangle_18" data-name="Rectangle 18" class="cls-1" transform="translate(338 624.929) rotate(45)">
+      <rect class="cls-2" width="10" height="10"/>
+      <rect class="cls-3" x="1.5" y="1.5" width="7" height="7"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "name": "ui-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server ./",
+    "sass": "node-sass -w ./app/styles -o ./app/css ./app/styles/main.scss"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "node-sass": "^4.10.0"
+  }
+}

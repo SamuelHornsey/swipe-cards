@@ -1,0 +1,19 @@
+.base {
+    position: absolute;
+    height: 70px;
+    width: 100%;
+    bottom: 0;
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+    .base__item {
+        text-align: center;
+    }
+
+    .base__icon {
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+}

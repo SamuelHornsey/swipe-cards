@@ -1,0 +1,39 @@
+.nav {
+    position: absolute;
+    .nav__top {
+        .nav__profile {
+            position: relative;
+            left: 20px;
+            top: 20px;
+
+            .nav__profile-img {
+                width: 50px;
+                height: auto;
+                border-radius: 50%;
+            }
+        }
+
+        .nav__profile-name {
+            position: absolute;
+            left: 85px;
+            top: 25px;
+            color: #A7A7A7;
+        }
+    }
+
+    .nav__items {
+        margin-top: 100px;
+
+        .nav__item {
+            margin: 40px 27px;
+
+            .nav__link {
+                text-decoration: none;
+                font-size: 22px;
+                color: #A7A7A7;
+                font-weight: bold;
+                margin: 20px 0px;
+            }
+        }
+    }
+}
